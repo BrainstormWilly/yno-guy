@@ -2,9 +2,12 @@
 title:  "Yno Tasting"
 date:   2017-08-20 21:00:00
 categories: [Portfolio]
-excerpt: <img src="images/yno_tasting_logo_512.png" class="portfolio-thumbnail-image" align="left">If you want to learn more about what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and records their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your palate!
+excerpt: <img src="/images/yno_tasting_logo_512.png" class="portfolio-thumbnail-image" align="left">If you want to learn more about what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and records their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your palate!
 tags: []
 ---
+
+![Yno Tasting](/images/yno_tasting_logo_512.png){:class="portfolio-hero-image"}
+
 If you want to learn more about what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and records their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your palate!
 
 ## Why Taste Wine Blind
@@ -19,10 +22,10 @@ Tastings are made up of 6 wines where each guest rates each one on a simple 1-5 
 
 In the future, [YnoTasting.com](https://ynotasting.com) will offer complete guidelines on how to host a tasting, including theme, choosing wines, how to serve wines blind, and tasting guidelines. In addition, it will show tasting trends and a taster "dashboard" for displaying personal stats.
 
-<img src="{{ "images/Screen Shot 2017-08-14 at 9.15.35 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
-<img src="{{ "images/Screen Shot 2017-08-14 at 9.23.19 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
-<img src="{{ "images/Screen Shot 2017-08-23 at 11.06.31 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
-<img src="{{ "images/Screen Shot 2017-08-23 at 11.07.24 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2017-08-14 at 9.15.35 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2017-08-14 at 9.23.19 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2017-08-23 at 11.06.31 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2017-08-23 at 11.07.24 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
 
 ## Software
 * Ruby-on-Rails v5

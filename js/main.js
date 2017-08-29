@@ -22,8 +22,8 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed');
     setNav(window.location.hash);
   }
-
-  if (window.location.pathname !== '{{ site.baseurl }}' && window.location.pathname !== '{{ site.baseurl }}index.html') {
+  
+  if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
 

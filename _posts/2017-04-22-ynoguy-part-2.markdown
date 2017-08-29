@@ -32,7 +32,7 @@ I recently completed my first Alexa app. Unless you’ve been hiding under a roc
 
 My first, of I hope several wine apps, is simply called Wine Trivia. There are already a few of these apps available. You will always be able to identify my apps by their Yno logo.
 
-<img src="{{ "images/yno_logo_108.png" | prepend: site.baseurl }}" alt="Yno Logo">
+<img src="{{ "/images/yno_logo_108.png" | prepend: site.baseurl }}" alt="Yno Logo">
 
 This app is a simple standard Alexa trivia app. Once enabled, just say, “Alexa, ask wine trivia” and she will give you 5 trivia questions. These will range from challenging WSET and Somm questions to fun wine movie facts. If you enjoy it, please rate it and feel free to post your comments and suggestions to this blog. My next app called Wine Facts should be out in the coming week. This is another simple standard app that when asked, “Alexa, open Wine Facts” will respond with a wine fact of the day. I will keep both of these apps up-to-date with new, exciting content!
 

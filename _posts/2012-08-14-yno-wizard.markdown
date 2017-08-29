@@ -17,10 +17,10 @@ Even seasoned wine experts can only identify a fraction of the brands they see i
 ## Feature Richness
 The Yno Wizard used 4 different APIs to gather information including Google's Shopping API to get online pricing information. With each barcode scan, the Wizard would instantly pull up the latest details on any publicly available wine. It would algorithmically sort through the data to feature the most pertinent info. If a user was actually tasting a wine, they could rate it with the rating system of their choice and store the wine on their Facebook timeline publicly or privately for permanent record.
 
-<img src="{{ "images/Screen Shot 2012-08-14 at 2.43.16 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
-<img src="{{ "images/Screen Shot 2012-08-14 at 3.03.25 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
-<img src="{{ "images/Screen Shot 2012-11-02 at 4.28.55 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
-<img src="{{ "images/Screen Shot 2012-11-02 at 4.29.13 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2012-08-14 at 2.43.16 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2012-08-14 at 3.03.25 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2012-11-02 at 4.28.55 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
+<img src="{{ "/images/Screen Shot 2012-11-02 at 4.29.13 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
 
 ## Software
 * Java
