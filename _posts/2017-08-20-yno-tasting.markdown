@@ -39,5 +39,6 @@ This project is in-progress. The current site at [YnoTasting.com](https://ynotas
 
 ## Developer Notes
 * [Github](https://github.com/BrainstormWilly/yno-tasting-party)
+* [Demo](https://ynotasting.com)
 
 This was my front-end capstone project at [Bloc.io](http://bloc.io). However, I have been working on various versions of this software for almost 10 years. It was originally developed as a Flash/PHP project. I almost released it commercially until I calculated based on user observation that having computers at tasting parties was not always successful. Later I developed an AngularJS/PHP prototype that was mobilized with Boostrap 3. Mobile devices made user participation more seamless. Now, with the inclusion of Alexa, tasters will be able to more naturally rate wines than they did with pen and paper.

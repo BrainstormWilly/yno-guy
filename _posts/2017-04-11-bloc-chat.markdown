@@ -1,0 +1,30 @@
+---
+title:  "Bloc Chat"
+date:   2017-04-11 08:00:00
+categories: [Portfolio]
+excerpt: <img src="images/chat.png" class="portfolio-thumbnail-image" align="left">No software education would be complete without a chat app. This was the first project in my education at Bloc.io where I wrote my own CSS. Subsequently, I probably spent more time on that than the actual programming.
+tags: []
+---
+
+![Bloc Chat](/images/blocchat.png){:class="portfolio-hero-image"}
+
+No software education would be complete without a chat app. This was the first project in my education at Bloc.io where I wrote my own CSS. Subsequently, I probably spent more time on that than the actual programming.
+
+## My Nemesis: CSS
+As an old Flash designer, I have a theory. If you took a group of CSS designers and showed them how to build interfaces with Flash, I'm certain there would riots in design studios everywhere. No one would want to go back to CSS...but I digress. The purpose of this project was to build a chat app complete with user sign up and chat room creation using Firebase.
+
+> The purpose of this project was to build a chat app complete with user sign up and chat room creation using Firebase.
+
+## Big Challenges Made Easy
+In addition to homespun CSS, this project was my first experience with Firebase and writing my own AngularJS. I was pleased to find Firebase quite user-friendly and the app came together easier than first thought. Even though Firebase can be a bit restrictive, I was impressed with how quickly it could be used to create what once was a fairly complex app. Plus, using SASS alleviated a lot of my anxiety about writing CSS.
+
+## Software
+* AngularJS
+* Firebase
+* Grunt/Yeoman
+* SASS
+
+## Developer Notes
+* [Github](https://github.com/BrainstormWilly/bloc-chat)
+
+This was my first front-end project using Grunt. I have since graduated to Gulp and am still getting used to the power of these deployment tools. This was also my first experience with Firebase and NoSQL. Overall, there were a lot of challenges outside the code itself, but I’m happy with the result...especially the design ;-)
