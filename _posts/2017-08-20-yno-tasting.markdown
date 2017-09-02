@@ -2,16 +2,16 @@
 title:  "Yno Tasting"
 date:   2017-08-20 21:00:00
 categories: [Portfolio]
-excerpt: <img src="/images/yno_tasting_logo_512.png" class="portfolio-thumbnail-image" align="left">If you want to learn more about what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and records their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your palate!
+excerpt: <img src="/images/yno_tasting_logo_512.png" class="portfolio-thumbnail-image" align="left">If you want to learn more of what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and record their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your wine palate!
 tags: []
 ---
 
 ![Yno Tasting](/images/yno_tasting_logo_512.png){:class="portfolio-hero-image"}
 
-If you want to learn more about what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and records their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your palate!
+If you want to learn more of what you like about wine and make better buying choices, do what the pros do, taste wine blind. Yno Tasting is a platform that helps hosts taste wines with friends. YT helps create your party, invite guests, and record their ratings and comments via mobile devices or Alexa. YT makes it easy and fun to discover your wine palate!
 
 ## Why Taste Wine Blind
-Choosing wine is confusing for most consumers. As a wine educator I have encountered many questions from frustrated tasters on how to learn more about wine. The many brands, experts, and point systems don't help matters much. The fact is wine is subjective. Every person's palate is different and every situation demands a different wine. The answer to choosing a wine is simple: taste more wine. However, any preconceptions about how good a wine is, it's rating, price, production, can skew one's decision making. The only way to objectively understand your wine palate is to taste it blind. Blind comparison tastings are how wine pros develop their own palate.
+Choosing a wine is confusing for most consumers. As a wine educator, I have encountered many questions from frustrated tasters about how to learn more about wine. The many brands, experts, and point systems don't help matters much. The fact is wine is subjective. Every person's palate is different and every situation demands a different wine. The answer to choosing a wine is simple: taste more wine. However, any preconceptions about how good a wine is, it's rating, price, production, can skew one's decision making. The only way to objectively understand your wine palate is to taste it blind. Blind comparison tastings are how wine pros develop their own palate.
 
 > The Yno Tasting platform makes it easy for anyone to host/attend blind wine tastings and record their results.
 
@@ -20,7 +20,7 @@ YT users are divided into 3 groups: tasters, guests, and hosts. Become a taster 
 
 Tastings are made up of 6 wines where each guest rates each one on a simple 1-5 scale. YT records each rating and displays the results once the tasting is complete. Ratings and comments are stored on [YnoTasting.com](https://ynotasting.com) for all tasters to review and chart their progress.
 
-In the future, [YnoTasting.com](https://ynotasting.com) will offer complete guidelines on how to host a tasting, including theme, choosing wines, how to serve wines blind, and tasting guidelines. In addition, it will show tasting trends and a taster "dashboard" for displaying personal stats.
+In the future, [YnoTasting.com](https://ynotasting.com) will offer complete guidelines on how to host a tasting, including theme, choosing wines, how to serve wines blind, and tasting guidelines. It will also show tasting trends and provide a taster “dashboard” for displaying personal stats.
 
 <img src="{{ "/images/Screen Shot 2017-08-14 at 9.15.35 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
 <img src="{{ "/images/Screen Shot 2017-08-14 at 9.23.19 PM.png" | prepend: site.baseurl }}" alt="Yno Wizard" width="250">
