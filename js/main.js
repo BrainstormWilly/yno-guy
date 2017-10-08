@@ -4,7 +4,7 @@ layout: null
 
 
 $(document).ready(function () {
-  $('a.blog-button').click(function (e) {
+  $('a.nav-button').click(function (e) {
     if ($('.panel-cover').hasClass('panel-cover--collapsed')) return
     currentWidth = $('.panel-cover').width()
     if (currentWidth < 960) {
@@ -22,7 +22,7 @@ $(document).ready(function () {
     $('.panel-cover').addClass('panel-cover--collapsed');
     setNav(window.location.hash);
   }
-  
+
   if (window.location.pathname !== '{{ site.baseurl }}/' && window.location.pathname !== '{{ site.baseurl }}/index.html') {
     $('.panel-cover').addClass('panel-cover--collapsed')
   }
@@ -32,7 +32,7 @@ $(document).ready(function () {
     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn')
   })
 
-  $('.navigation-wrapper .blog-button').click(function () {
+  $('.navigation-wrapper .nav-button').click(function () {
     $('.navigation-wrapper').toggleClass('visible');
     $('.btn-mobile-menu__icon').toggleClass('icon-list icon-x-circle animated fadeIn');
     setNav( $(this).attr("href") );

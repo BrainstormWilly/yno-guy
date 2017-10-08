@@ -1306,7 +1306,6 @@ hr {
 	background: none; }
 
 .btn, .navigation__item a {
-	background-color: rgba(0,0,0,0.5);
 	padding: 10px 20px;
 	border: 1px solid #e25440;
 	border-radius: 20px;
@@ -1316,8 +1315,7 @@ hr {
 	text-shadow: none;
 	color: #e25440;
 	-webkit-font-smoothing: antialiased; }
-	.btn:hover, .navigation__item a:hover {
-		background-color: #000;
+.btn:hover, .navigation__item a:hover {
 		color: #b9301c;
 		border-color: #b9301c; }
 

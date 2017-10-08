@@ -55,6 +55,14 @@ pre.highlight code,
   border-radius:100%;
 }
 
+/* home button style */
+.nav-button{
+  background-color: rgba(0,0,0,0.5);
+}
+.nav-button:hover{
+  background-color: #000;
+}
+
 .portfolio-hero-image{
   width: 200px;
 }
