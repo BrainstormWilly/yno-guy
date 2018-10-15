@@ -1,7 +1,7 @@
 ---
-title:  "Wine Clubs: What the Hell is a Wine Club?"
-date:   2017-10-7 09:00:00
-categories: [Blog]
+title:  "What the Hell is a Wine Club? Part 1."
+date:   2015-2-11 09:00:00
+categories: [Wine]
 excerpt: For over 3 years I worked in wine hospitality selling wine clubs. More often than not I found myself trying to explain to consumers why they even exist and, more importantly, why anyone should join one. In this 3 part series I will try to revisit those conversations.
 tags: [wineclub]
 ---
@@ -11,15 +11,13 @@ However, explaining what wine clubs are, their differences, why they exist, and 
 
 ## So, What is a Wine Club?
 
-In brief, a wine club is a commitment to purchase a defined quantity of wine over a period of time. Wine clubs were traditionally sold by wineries, but are now being sold through wine shops, online retailers, and yes, even the [Wall Street Journal](https://www.wsjwine.com/). Commitments are determined usually in terms of shipments. The amount of wine can vary from a few bottles to several cases per year. After the minimum commitment is met (usually a year’s worth of shipments) you can choose to cancel or allow it to continue indefinitely. In most clubs, the seller chooses the wines, but some are now allowing the consumer to choose from a list. Once you choose a club, wines are shipped direct to your home or business at predefined intervals and you are billed on a per shipment basis. Simple, no? No, definitely not.
+In brief, a wine club is a loyalty program. It usually consists of a commitment to purchase a  quantity of wine over a period of time at pre-determined intervals. Commitments are usually defined as shipments. The amount of wine per shipment can vary from a couple bottles to 12 or more. After the minimum commitment is met (usually a year’s worth of shipments) you can choose to cancel or allow it to continue indefinitely. In most clubs, the seller chooses the wines, but some are now allowing the consumer to choose from a list. Once you choose a club, wines are shipped direct to your home or business and you are billed per shipment. There is usually a minimum commitment of year, after which you can cancel anytime. Simple, no? No, definitely not. Wine clubs were traditionally sold by wineries, but are now being sold through wine shops, online retailers, and yes, even the [Wall Street Journal](https://www.wsjwine.com/).
 
 ## Winery Wine Clubs
 
-Wineries were the first to sell wine clubs. In fact, until 2004 wineries were the only entities that could sell wine direct-to-consumers (aka DTC). It is generally accepted the first wine club was actually the [Automatic Tasting Program (ATP)](https://www.ridgewine.com/wine-club-membership/membership-options/advance-tasting-program/) introduced by Ridge Winery in 1977.
+Wineries were the first to sell wine clubs. In fact, until 2004 wineries were the only entities that could sell wine direct-to-consumers (aka DTC). It is generally accepted the first wine club was actually the [Automatic Tasting Program (ATP)](https://www.ridgewine.com/atp40/) introduced by Ridge Winery in 1977.
 
-{% include image_with_caption.html image="advancedtastingprogram.jpg" alt="Ridge Vineyards ATP" caption="courtesy of Ridge Vineyards" %}
-
-> Ridge Winery’s “Automatic Tasting Program” is considered by most the first wine club.
+{% include image_with_caption.html image="ATP40Logo.jpg" alt="Ridge Vineyards ATP" caption="Ridge Winery’s “Automatic Tasting Program” is considered by most the first wine club." %}
 
 I was a teenager growing up near their winery in Saratoga, CA when my dad joined the program. Back then it wasn’t a “shipping” as much a “sampling” program where local customers would journey to the winery to get their new releases to take home, try and enjoy. The winery would then offer the same wines at a discount so that members could immediately purchase their favorites. My dad and his buddies eagerly awaited each release to the point where the “journey” to Ridge became more a celebrated pilgrimage. Their excitement was around the differences each vineyard, varietal, and vintage would bring. This excitement is why many people join winery wine clubs to this day.
 
@@ -29,11 +27,11 @@ However, it took years before wineries could actually ship club wines to consume
 
 {% include tasting_room_image.html %}
 
-In 2004 the Supreme Court declared that retailers could sell wine online as long as they distributed it according to each state’s regulations. Online wine retailers, clubs, and “flash” sites have been popping up ever since. The same decision has allowed wineries themselves to open their own e-commerce websites. Overall, it has been a positive development for the wine industry. However, unlike winery clubs, the retail club value proposition is to choose the best wine values that match their customers’ tastes. Club W, now called the [Tasting Room](https://www.tastingroom.com), which is mentioned in Ms. Teague’s  article feels a bit more like a dating site than a wine retailer. Club managers are purchasing wine available on the open market from wholesalers they perceive as offering wines that are unique, of good value, and match their customers tastes. That’s a far cry from what a winery club offers. With some exceptions there are a lot of middlemen taking a cut of these wines; importers, distributors, wholesalers, even other retailers. Retail clubs are a great way to discover wine as whole. However, because they are selling wines that are available on the open market, they tend to lean on marketing gimmicks like tailoring wine to your palette (which, by the way is constantly changing), price target, expert choice, etc.. I appreciate what they're doing, but I don't think it's anything like a winery club.
+In 2004 the Supreme Court forbid wine export states from disallowing wine imported from other states. This opened the door for not only more wineries to sell across state lines, but retailers as well–especially over the internet. Online wine retailers, clubs, and “flash” sites have been popping up ever since. Wineries themselves opened their own DTC websites. Overall, it has been a positive development for the wine industry. However, unlike winery clubs, the retail club value proposition is very different. Club W, now called the [Tasting Room](https://www.tastingroom.com) and mentioned in Ms. Teague’s article, feels a bit more like a dating site than a wine retailer. Club managers are purchasing wine available on the open market from wholesalers they perceive as offering wines that are unique, of good value, and match their customers tastes. That’s a far cry from what a winery club offers. With some exceptions there are a lot of middlemen taking a cut of these wines; importers, distributors, wholesalers, even other retailers. Retail clubs are a great way to discover wine as whole. However, because they are selling wines that are available on the open market, they tend to lean on marketing gimmicks like tailoring wine to your palette (which, by the way is constantly changing), price target, expert choice, etc.. I appreciate what they're doing, but I don't think it's anything like a winery club.
 
 ## Why Sell Wine this Way?
 
-What’s the deal? Why not just sell all wine in stores or on Amazon like everything else? I’m both a wine club salesman and member. I’ll be the first to say it’s a wacky way to sell wine. On the surface it can even seem disingenuous. Despite this, DTC sales are increasing much faster than retail. Most industry experts still dismiss DTC as a minor part of the market (<5% overall), but for smaller wineries it is an essential–if not only part of their sales strategy.
+What’s the deal? Why not just sell all wine in stores or over the internet like everything else? I’m both a wine club salesman and member. I’ll be the first to say it’s a wacky way to sell wine. On the surface it can even seem disingenuous. Despite this, DTC sales are increasing much faster than retail. Most industry experts still dismiss DTC as a minor part of the market (<5% overall), but for smaller wineries it is an essential–if not only part of their sales strategy.
 
 So, how can a subscription based service that requires the consumer to;
 

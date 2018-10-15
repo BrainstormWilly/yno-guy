@@ -44,9 +44,9 @@ function setNav(hash){
   var current_nav = hash.substr(hash.indexOf("#"));
   $(".post-list").hide();
 
-  if( current_nav==="#portfolio" ){
-    $(".portfolio").show();
+  if( current_nav==="#software" ){
+    $(".software").show();
   }else{
-    $(".blog").show();
+    $(".wine").show();
   }
 }

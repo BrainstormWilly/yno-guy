@@ -4,9 +4,9 @@ layout: default
 
 <div class="main-post-list main-content">
 
-  <ol class="post-list blog">
+  <ol class="post-list wine">
     {% for post in paginator.posts %}
-      {% if post.categories contains "Blog" %}
+      {% if post.categories contains "Wine" %}
         <li>
           <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>
@@ -17,9 +17,9 @@ layout: default
     {% endfor %}
   </ol>
 
-  <ol class="post-list portfolio">
+  <ol class="post-list software">
     {% for post in paginator.posts %}
-      {% if post.categories contains "Portfolio" %}
+      {% if post.categories contains "Software" %}
         <li>
           <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}" title="{{ post.title }}">{{ post.title }}</a></h2>
           <p class="excerpt">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}&hellip;</p>

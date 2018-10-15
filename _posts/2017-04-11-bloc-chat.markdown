@@ -1,7 +1,7 @@
 ---
 title:  "Bloc Chat"
 date:   2017-04-11 08:00:00
-categories: [Portfolio]
+categories: [Software]
 excerpt: <img src="images/chat.png" class="portfolio-thumbnail-image" align="left">No software education would be complete without a chat app. This was the first project in my education at Bloc.io where I wrote my own CSS. Subsequently, I probably spent more time on that than the actual programming.
 tags: []
 ---
