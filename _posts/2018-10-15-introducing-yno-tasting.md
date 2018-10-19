@@ -35,21 +35,3 @@ In my own blind tasting experiences my friends and I always struggled with big t
 Introducing [Yno Tasting](https://ynotasting.com). This app will hopefully accomplish what I originally set out to do as a wine educator: help people enjoy wine more by learning what they like. The app is free for all to use. Just sign up as a _Yno Host_ and start your own tasting. I will provide affordable suggested tasting lists of commonly found wines for those needing a kickstart. Feel free to [email me](mailto:bill@ynoguy.com) with your questions/suggestions.
 
 Now get out there, and _Go Blind!_
-
-{% if page.comments %}
-<div id="disqus_thread"></div>
-<script>
-var disqus_config = function () {
-this.page.url = "https://ynoguy.com{{ page.url }}"
-this.page.identifier = "{{ page.id }}"
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://ynoguy.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endif %}
