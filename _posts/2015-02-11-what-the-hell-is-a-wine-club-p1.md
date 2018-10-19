@@ -4,6 +4,7 @@ date:   2015-2-11 09:00:00
 categories: [Wine]
 excerpt: For over 3 years I worked in wine hospitality selling wine clubs. More often than not I found myself trying to explain to consumers why they even exist and, more importantly, why anyone should join one. In this 3 part series I will try to revisit those conversations.
 tags: [wineclub]
+comments: true
 ---
 In this post series I want to address what I think is a very misunderstood concept–Wine Clubs. My thoughts on this were confirmed by an article I read some time ago from Wall Street Journal’s wine columnist Lettie Teague called [Do Wine Clubs Really Deliver on Their Promises?](https://www.wsj.com/articles/do-wine-clubs-really-deliver-on-their-promises-1422646193) Now to be clear, I’m not questioning Ms. Teague’s credentials as a columnist, but with regards to this topic I think she’s missing the point. In her article she joins three clubs, none of which are direct from wineries. There is a key distinction here. All of the wines she was receiving were delivered through distribution, meaning even though she may never have heard of them, these wines are available to the public through one means or another. This is a very different kind of club vs. what most wineries offer.
 

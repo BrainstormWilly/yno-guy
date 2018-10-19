@@ -4,6 +4,7 @@ date:   2014-05-07 09:00:00
 categories: [Wine]
 excerpt: New changes for the YnoGuy.
 tags: []
+comments: true
 ---
 
 ### Exciting new changes for the YnoGuy.

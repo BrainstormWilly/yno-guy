@@ -4,6 +4,7 @@ date:   2014-02-11 09:00:00
 categories: [Wine]
 excerpt: In this blog series I try to figure out, in light of the evidence, why Napa has some much "cargo"?
 tags: [wineclub]
+comments: true
 ---
 
 ### Why does Napa have so much cargo?

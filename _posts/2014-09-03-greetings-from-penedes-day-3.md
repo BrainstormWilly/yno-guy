@@ -4,6 +4,7 @@ date:   2014-09-03 09:00:00
 categories: [Wine]
 excerpt: Today I took a walk and...oh look, a winery!
 tags: []
+comments: true
 ---
 
 ### To Cava or not to Cava

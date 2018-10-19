@@ -4,6 +4,7 @@ date:   2014-09-09 09:00:00
 categories: [Wine]
 excerpt: If you've read any of my posts you know that wine history is, well, a fascination of mine. So naturally, when I stumbled on a wine museum I had to go in.
 tags: []
+comments: true
 ---
 
 ### The Old World is New Again

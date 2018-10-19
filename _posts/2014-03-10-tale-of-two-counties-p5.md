@@ -4,6 +4,7 @@ date:   2014-03-10 09:00:00
 categories: [Wine]
 excerpt: As Phylloxera ravaged European vines, California experienced a wine renaissance thanks to the contributions of some early wine pioneers
 tags: [wineclub]
+comments: true
 ---
 
 ### The Gold Rush Wine Pioneers

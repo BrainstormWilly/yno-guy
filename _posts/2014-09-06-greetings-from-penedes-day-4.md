@@ -4,6 +4,7 @@ date:   2014-09-06 09:00:00
 categories: [Wine]
 excerpt: Penedès is all about Cava. Today I toured two of its largest producers.
 tags: []
+comments: true
 ---
 
 ### Big Cava

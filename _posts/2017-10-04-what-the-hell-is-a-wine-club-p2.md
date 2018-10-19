@@ -4,6 +4,7 @@ date:   2017-10-4 09:00:00
 categories: [Wine]
 excerpt: In part 2 of my post on wine clubs I try to explain why they exist and why wine consumers are joining them more and more.
 tags: [wineclub]
+comments: true
 ---
 
 In my previous post I tried to explain the definition of a wine club, and the difference between a retail wine club and a winery wine club. In this post I will try to explain the evolution of the wine club and why they exist in the first place. The fact of the matter is wine clubs are now basically loyalty programs, but that's not how they started.

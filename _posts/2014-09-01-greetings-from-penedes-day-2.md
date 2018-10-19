@@ -4,6 +4,7 @@ date:   2014-09-01 09:00:00
 categories: [Wine]
 excerpt: On day 2 while rambling about in Sidurni d’Anoia (aka Cava Capitol) I found something very...disturbing.
 tags: []
+comments: true
 ---
 
 ### The Phylloxera Festival. WTF?!

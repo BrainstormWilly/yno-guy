@@ -4,6 +4,7 @@ date:   2014-10-15 09:00:00
 categories: [Wine]
 excerpt: Final thoughts from my trip to Penedès
 tags: []
+comments: true
 ---
 
 {% include image_with_caption.html image="20140904_183438_HDR.jpg" alt="View over St. Pau" caption="View over St. Pau" %}

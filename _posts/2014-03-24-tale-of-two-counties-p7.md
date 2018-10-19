@@ -4,6 +4,7 @@ date:   2014-03-24 09:00:00
 categories: [Wine]
 excerpt: Prohibition is over and the wine industry is left for dead...or is it? Enter the Gallos.
 tags: []
+comments: true
 ---
 
 ### Enter The Gallos

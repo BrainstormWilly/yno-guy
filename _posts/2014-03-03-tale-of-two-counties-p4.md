@@ -4,6 +4,7 @@ date:   2014-03-03 09:00:00
 categories: [Wine]
 excerpt: The American wine industry is ripe with colorful characters, but few can compare with Count Agaston Haraszthy
 tags: [wineclub]
+comments: true
 ---
 
 ### The Prince of Grapes

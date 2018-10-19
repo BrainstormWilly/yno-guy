@@ -4,6 +4,7 @@ date:   2014-02-11 09:00:00
 categories: [Wine]
 excerpt: California’s vine history started early and often thanks to a little known Spanish grape and and a hand full of Jesuits
 tags: [wineclub]
+comments: true
 ---
 
 ### The Mission and It’s Grape

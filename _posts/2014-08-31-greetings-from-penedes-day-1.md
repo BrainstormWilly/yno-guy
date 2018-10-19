@@ -4,6 +4,7 @@ date:   2014-08-31 09:00:00
 categories: [Wine]
 excerpt: The Yno Guy is in the Catalonian wine country. Stay tuned for more photos and tasting notes in the days to come.
 tags: []
+comments: true
 ---
 
 ### Day 1

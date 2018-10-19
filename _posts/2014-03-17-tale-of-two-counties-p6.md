@@ -4,6 +4,7 @@ date:   2014-03-17 09:00:00
 categories: [Wine]
 excerpt: Bottled beer, the panic of 1893, prohibition, and the invention of the cocktail. Wine enters a dry period lasting decades.
 tags: []
+comments: true
 ---
 
 ### The Dry Years

@@ -4,6 +4,7 @@ date:   2014-02-11 09:00:00
 categories: [Wine]
 excerpt: In our 2nd installment of Tale of Two Counties we’ll investigate their respective terroirs...whatever that is.
 tags: [wineclub]
+comments: true
 ---
 
 ### The Devil is in the Terroir

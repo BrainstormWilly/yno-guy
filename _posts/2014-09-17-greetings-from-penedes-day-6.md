@@ -4,6 +4,7 @@ date:   2014-09-17 09:00:00
 categories: [Wine]
 excerpt: Today I visited Can Rà fols dels Caus which means "house of rabbit caves." Indeed, such an amazing place it actually felt a bit like Alice in Wonderland.
 tags: []
+comments: true
 ---
 
 ### Inside the Rabbit Cave
