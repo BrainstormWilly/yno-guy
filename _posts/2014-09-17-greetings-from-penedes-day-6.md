@@ -22,19 +22,19 @@ Still under construction, the winery's goal is grape-to-bottle with minimal pump
 
 with no expense spared common sense. The result of which carries right into the final product. These wines aren't cheap. They are estate-grown, eclectic, terroir-driven, and inspiring. They are designed to provoke thought and rattle your senses. So, let's get started.
 
-{% include image_with_caption.html image="https://lh6.googleusercontent.com/1Zndsw9JutbVhIo2j5d_oqlNpazdVEBt4v0dtOQhLX8=w322-h572-no" alt="2011 El Recollà­s" caption="2011 El Recollà­s" %}
+{% include image_with_caption.html image="20140910_175610.jpg" alt="2011 El Recollà­s" caption="2011 El Recollà­s" %}
 
 2011 El Recollà­s is their most popular white wine which tips the scales at 30€...and I still bought it. I couldn't help it. Made from a varietal I've never heard of called Incrocio Manzoni (out of Veneto) and French oak aged, this wine has a cornucopia of fruit flavor running the gamut of citrus, stone, and tropical topped off with vanilla and a touch of limestone minerality. It simply makes a good Chardonnay seem one dimensional.
 
-{% include image_with_caption.html image="https://lh4.googleusercontent.com/-xddabRVbdew/VBCMvr99RFI/AAAAAAAABc8/i3zKayn51D0/w322-h572-no/20140910_175559.jpg" alt="2013 Gran Caus" caption="2013 Gran Caus" %}
+{% include image_with_caption.html image="20140910_175559.jpg" alt="2013 Gran Caus" caption="2013 Gran Caus" %}
 
 Ok, that was exciting. Now for a rosat. 2013 Gran Caus is their 100% Merlot with about 3% residual sugar. Stop. Before you start running for the hills screaming, ""No! No f#%king White Merlot!"" just read on. These grapes are picked at a slightly lower brix, destemmed, and pumped directly into cold stainless steel tanks where they are gently pumped over for two days worth of extraction prior to press and fermentation. The result is a deep-colored rosat which smells like red vines, cherries, and strawberries, but smacks your palette with a mix of tart cherry, lively acidity, limestone minerality, salinity, thyme, a slight sweetness, and a lengthy finish that fools you into thinking red vs. pink. This wine will truly make you blush ;-)
 
-{% include image_with_caption.html image="https://lh4.googleusercontent.com/-l0fSZBD83eM/VBCNDkLHVrI/AAAAAAAABdU/d4D2ilrA604/w322-h572-no/20140910_175620.jpg" alt="2006 Can Rà fols dels Caus Pedradura" caption="2006 Can Rà fols dels Caus Pedradura" %}
+{% include image_with_caption.html image="20140910_175620.jpg" alt="2006 Can Rà fols dels Caus Pedradura" caption="2006 Can Rà fols dels Caus Pedradura" %}
 
 There is a certain character to red blends I'm finding here in Penedès. The 2006 Can Rà fols dels Caus Pedradura is no exception. There seems to be a certain tobacco/licorice in all the Cabernet Sauvignon-Garnatxa blends I've had here. However, this wine also has a little rustic forest floor mixed with its black cherry and raspberry fruit. This 2006 could easily pass as a 2010 in California. Still ruby in color with a hint of brick around the rim. Amazing depth, finish, complexity, and chewy tannins. Yeah, I bought it.
 
-{% include image_with_caption.html image="https://lh4.googleusercontent.com/-l0fSZBD83eM/VBCNDkLHVrI/AAAAAAAABdU/d4D2ilrA604/w322-h572-no/20140910_175620.jpg" alt="1997 Gran Caus" caption="1997 Gran Caus" %}
+{% include image_with_caption.html image="20140910_175630.jpg" alt="1997 Gran Caus" caption="1997 Gran Caus" %}
 
 Finally, as a treat, my host David brought out a 1997 Gran Caus, a Bordeaux blend of Cabernet Franc, Cabernet Sauvignon, and Merlot. Even after 17 years this wine was just beginning to show signs of pruning, rich cocoa notes and a bit of the same rustic character of the Pedradura. I was floored by the ageability of these wines.
 

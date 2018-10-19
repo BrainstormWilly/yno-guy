@@ -16,12 +16,3 @@ What “non-existent” wine did Ellen Barkin offer Matt Damon in _Oceans 13_? W
 
 ## Alexa-fied
 Voice-enabled digital assistants are fast becoming the next consumer must-have. Amazon's Alexa is an industry leader. The simple act of asking a question without reaching for a mobile device or tapping a keyboard breaks down barriers for software developers. In addition, Alexa's built-in trivia skill makes it even easier. I could not build an app like Yno Wine Trivia as fun and compelling without Alexa. Nor could I build it as fast.
-
-## Software
-* JSON
-* Amazon Alexa SDK
-
-## Developer Notes
-* [GitHub](https://github.com/BrainstormWilly/yno-trivia)
-
-This was my first foray into voice-driven applications. Despite struggling with Amazon's byzantine documentation and dealing with Alexa's SML inflections, I became smitten with adding this technology to other apps including my soon-to-be released [Yno Tasting]({ post_url 2017-08-20-yno-tasting }) app. I've come to recognize adding voice input can be as significant a change to a UX as adding a camera or GPS.
