@@ -1,5 +1,5 @@
 ---
-title:  Introducing Yno Tasting
+title:  Yno Tasting
 date:   2018-10-15 09:00:00
 categories: [Software]
 excerpt: <img src="images/yno_tasting_logo_512.png" class="portfolio-thumbnail-image" align="left">It was almost 5 years ago when I decided to enter the wine business. For 10 years prior I was a software developer. Now, I've decided to combine the two. I'm excited to introduce my new wine app, Yno Tasting. It's the answer to finding that perfect wine...and other stupid questions.
@@ -21,7 +21,7 @@ I love tasting wine blind—even though I’m not particularly good at it. I esp
 
 [![Yno Tasting](/images/yno_tasting_logo_512.png){:class="portfolio-hero-image"}](https://ynotasting.com)
 
-In my own blind tasting experiences my friends and I always struggled with big tally at the end of the tasting. Sure, we all knew what we liked, but what did everyone like? What was the best buy? This required math. Something nobody should have to deal with after a night of drinking wine. So, for many years the idea of a blind wine tasting app has been kicking around in my head. Done right, the app would have to:
+In my own blind tasting experiences my friends and I always struggled with doing the tally at the end of the tasting. Sure, we all knew what we liked, but what did everyone like? What was the best buy? This required math. Something nobody should have to deal with after a night of tasting wine. So, for many years the idea of a blind wine tasting app has been kicking around in my head. Done right, the app would have to:
 
 * Have a hosted invite system
 * Display tasting and wine descriptions
