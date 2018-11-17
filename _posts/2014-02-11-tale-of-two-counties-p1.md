@@ -9,7 +9,7 @@ comments: true
 
 ### Why does Napa have so much cargo?
 
-{% include image_with_caption.html image="Napa-Wine-Map-wine-folly.jpg" alt="Wine Folly Napa Map" caption="Like this map? Go buy one!" %}
+{% include image_with_caption.html image="Napa-Wine-Map-wine-folly.jpg" alt="Wine Folly Napa Map" caption="Like this map? Go buy one! (https://shop.winefolly.com/collections/regional-wine-maps)" %}
 
 Wine vines, or *vitis vinifera*, are grown all over California. The state contains over 105 [American Viticultural Areas (AVAs)](http://www.wineinstitute.org/resources/avas) designated for grape growing. I’ve spent most of my life living amongst the three first; Napa Valley, Sonoma Valley, and the lesser-known Santa Cruz Mountains. However, in the eyes of the rest of the world only one stands out--Napa. Even in my [WSET](http://www.wsetglobal.com) and [SWE](http://www.societyofwineeducators.org) studies other “new world” countries get fairly equal coverage of their regions. For instance, the Barossa Valley of Australia is arguably the most important region on account of its prestigious Shiraz. However, in my study texts regions like Margaret River, Yarra and Clare Valley get about as much mention. Napa, on the other hand, dominates the American chapter. Other California regions as well as other states are given secondary treatment. One can argue these other regions are newer, smaller, or receive less critical praise for their quality of wine. All of which may arguably be true, except for one place--Sonoma.
 
@@ -26,7 +26,7 @@ Consider these facts:
 * Both counties contain wineries that have won the most prestigious awards for their wines and winemakers (including my alma mater [Chateau St. Jean](http://www.chateaustjean.com/accolades)).
 * Both counties have roughly the same number of AVAs at 16.
 
-{% include image_with_caption.html image="Sonoma-Wine-Map-wine-folly.jpg" alt="Wine Folly Napa Map" caption="Like this map? Go buy one!" %}
+{% include image_with_caption.html image="Sonoma-Wine-Map-wine-folly.jpg" alt="Wine Folly Napa Map" caption="Like this map? Go buy one! (https://shop.winefolly.com/collections/regional-wine-maps)" %}
 
 When I first moved to Sonoma County in 2005, my wife landed a job as a graphic designer for [Francis Ford Coppola’s winery](https://www.francisfordcoppolawinery.com), which was then fully located on the old Oakville Niebaum (Inglenook) estate in Napa County. Taking advantage of her employee perks, I opted for a free vineyard tour and tasting. During the tasting portion I got to know a gentleman next to me from out of state who asked where I was from:
 
