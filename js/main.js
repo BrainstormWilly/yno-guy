@@ -41,10 +41,11 @@ $(document).ready(function () {
 });
 
 function setNav(hash){
-  var current_nav = hash.substr(hash.indexOf("#"));
+
+  var current_category = hash.substr(hash.indexOf("#"));
   $(".post-list").hide();
 
-  if( current_nav==="#software" ){
+  if( current_category==="#software" ){
     $(".software").show();
   }else{
     $(".wine").show();

@@ -22,9 +22,15 @@ defaults:
     values:
         layout: 'post'
 
+gems: ['jekyll-paginate', 'jekyll-paginate-category', 'github-pages']
+
+# pagination settings
+paginate: 10
+category_dir: 'cat'
+category_layout: 'index.html'
+
 # Build settings
 destination: _site
-paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
@@ -35,5 +41,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-gems: ['jekyll-paginate']
+
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

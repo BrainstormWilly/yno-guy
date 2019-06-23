@@ -2,7 +2,7 @@
 title:  "Yno Wine Trivia"
 date:   2017-04-22 08:00:00
 categories: [Software]
-excerpt: <img src="images/yno_trivia_logo_512.png" class="portfolio-thumbnail-image" align="left">What “non-existent” wine did Ellen Barkin offer Matt Damon in Oceans 13? Where does Gruner Veltliner come from? These questions and more are answered by Yno Wine Trivia. A fun Alexa skill to play with friends or study for WSET, Sommelier, or CSW tests.
+excerpt: <img src="/images/yno_trivia_logo_512.png" class="portfolio-thumbnail-image" align="left">What “non-existent” wine did Ellen Barkin offer Matt Damon in Oceans 13? Where does Gruner Veltliner come from? These questions and more are answered by Yno Wine Trivia. A fun Alexa skill to play with friends or study for WSET, Sommelier, or CSW tests.
 tags: []
 comments: true
 ---

@@ -1,6 +1,6 @@
 ---
 title:  "Tale of Two Counties. Napa vs. Sonoma. Part 8."
-date:   2018-05-19 12:00:00
+date:   2019-05-19 12:00:00
 categories: [Wine]
 excerpt: It's the 1950s and Americans are consuming wine again, albeit mostly in jug form. However, a few brave souls in California are interested in revitalizing its distant wine glory.
 tags: []
