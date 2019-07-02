@@ -1,0 +1,22 @@
+---
+layout: default
+permalink: /software
+---
+
+{% assign index_collection = site.software %}
+
+<div class="main-post-list main-content">
+
+  <ol class="post-list">
+    {% for post in site.software %}
+        {% include post_preview.html %}
+    {% endfor %}
+  </ol>
+
+  <hr class="post-list__divider ">
+
+  {% if index_collection.size < site.paginate %}
+      {% include pagination.html %}
+  {% endif %}
+
+</div>

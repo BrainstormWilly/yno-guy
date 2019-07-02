@@ -1,0 +1,17 @@
+
+{% assign wine_post_offset = 0 %}
+
+
+
+<div class="post-list">
+  <p>URL: {{ page.url }}</p>
+  {% for post in site.wine limit:site.paginate_post_limit offset: wine_post_offset %}
+      {% include post_preview.html %}
+  {% endfor %}
+</div>
+
+<hr class="post-list__divider ">
+
+{% if site.wine.size > site.paginate_post_limit %}
+    {% include pagination.html %}
+{% endif %}

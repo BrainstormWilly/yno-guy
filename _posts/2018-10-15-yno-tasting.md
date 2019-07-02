@@ -4,6 +4,7 @@ date:   2018-10-15 09:00:00
 categories: [Software]
 excerpt: <img src="/images/yno_tasting_logo_512.png" class="portfolio-thumbnail-image" align="left">It was almost 5 years ago when I decided to enter the wine business. For 10 years prior I was a software developer. Now, I've decided to combine the two. I'm excited to introduce my new wine app, Yno Tasting. It's the answer to finding that perfect wine...and other stupid questions.
 tags: [wine software]
+layout: 'post'
 comments: true
 ---
 
