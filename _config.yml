@@ -24,19 +24,6 @@ defaults:
 
 # plugins: ['jekyll-paginate']
 
-# pagination settings
-paginate_post_limit: 5
-# category_dir: 'cat'
-# category_layout: 'index.html'
-
-# collection settings
-collections:
-  wine:
-    output: true
-    permalink: /:collection/:year/:title/
-  software:
-    output: true
-    permalink: /:collection/:year/:title/
 
 # Build settings
 destination: _site
